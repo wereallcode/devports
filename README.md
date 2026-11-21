@@ -6,6 +6,10 @@ A CLI to manage ports held by development servers.
 
 See which ports your development servers still hold, open or kill one with a single key.
 
+## Preview
+
+<img src="docs/assets/preview.png" alt="devports" width="700" />
+
 ## Installation
 
 ### Requirements
